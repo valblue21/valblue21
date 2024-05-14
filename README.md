@@ -43,7 +43,11 @@ En este espacio, compartiré proyectos y código relacionados con el diseño y d
   - *Diseño centrado en el usuario: flujo de usuario, arquitectura de la información.*
   - *Usabilidad y accesibilidad web: diseño intuitivo, navegación clara, cumplimiento de estándares de accesibilidad.*
   - *Pruebas de usabilidad y evaluación heurística.*
-  - *Diseño de microinteracciones y animaciones para mejorar la experiencia del usuario.* 
+  - *Diseño de microinteracciones y animaciones para mejorar la experiencia del usuario.*
+ 
+## Aprendiendo 
+
+
 
 ## Proyectos destacados
 
